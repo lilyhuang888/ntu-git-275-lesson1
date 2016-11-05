@@ -1,16 +1,12 @@
 # NTU GIT CLASS EXERCISE 1
 
 ## Name
-Lily Huang
-
+**Lily Huang**
 ## Date
 2016/11/05
-
 ## Github Username
-lilyhuanghaha4ever@gmail.com
-
-
+**lilyhuang888**
 ## My Favorite 3 programming Language
-javascript
-Angular.js
-PHP
+1.JavaScript
+2.Angular.js
+3.PHP
