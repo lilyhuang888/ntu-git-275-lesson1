@@ -7,6 +7,6 @@
 ## Github Username
 **lilyhuang888**
 ## My Favorite 3 programming Language
-1.JavaScript
-2.Angular.js
-3.PHP
+1. JavaScript
+2. Angular.js
+3. PHP
